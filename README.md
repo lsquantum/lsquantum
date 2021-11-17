@@ -10,7 +10,7 @@
 </p>
 
 >
-> I’m a software developer specializing in building Web Applications. For the frontend I love building WebApplication using ASP.NET Core (Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
+> I’m a software developer specializing in building Web Applications. For the frontend I use ASP.NET Core (Razor Pages) and i'm trying to learn React.js. As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
 >
 
 #### 💻 More
