@@ -16,7 +16,7 @@
 #### 💻 More
 - 🔭 I’m currently working on a project called "QuantumCore".
 - 🌱 I’m currently learning .Net 6, GraphQL with .Net Core, React.js, Tailwind
-- ⚡ Fun fact: I'm a gamer. :)
+- ⚡ Fun fact: I love backend more than frontend. :) 
 
 </br>
 <p align="center"> 
