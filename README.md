@@ -42,3 +42,21 @@
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" style="vertical-align:top; margin:4px;">
   </a> 
 </p>
+
+</br>
+<p align="center"> 
+ <strong>
+   Trying to learn and improve
+  </strong>
+</p>
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://graphql.org/">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" height="60px" alt="graphql" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px;">
+  </a>  
+</p>
