@@ -9,21 +9,19 @@
  </a>
 </p>
 
->
-> I’m a software developer specializing in building Web Applications. For the frontend I use ASP.NET Core (Razor Pages) and i'm trying to learn React.js. As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
->
+> I’m a software developer specializing in building Web Applications. For the frontend I use React.js with Material UI (MUI). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
 
 #### 💻 More
 - 🔭 I’m currently working on a project called "QuantumCore".
-- 🌱 I’m currently learning .Net 6, GraphQL with .Net Core, React.js, Tailwind
+- 🌱 I’m currently learning GraphQL
 - ⚡ Fun fact: I love backend more than frontend. :) 
 
 </br>
-<p align="center"> 
- <strong>
+<div align="center"> 
+  <h3>
    My skills
-  </strong>
-</p>
+  </h3>
+</div>
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/">
@@ -35,20 +33,29 @@
   <a href="https://www.javascript.com/">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" style="vertical-align:top; margin:4px;">
   </a>  
+   <a href="https://www.typescriptlang.org/">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px;">
+  </a>
     <a href="https://www.mysql.com/">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" style="vertical-align:top; margin:4px;">
   </a>  
       <a href="https://www.postgresql.org/">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" style="vertical-align:top; margin:4px;">
   </a> 
+   </a>  
+      <a href="https://www.mongodb.com">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="postgresql" style="vertical-align:top; margin:4px;">
+  </a> 
 </p>
 
 </br>
-<p align="center"> 
- <strong>
+
+<div align="center"> 
+  <h3>
    Trying to learn and improve
-  </strong>
-</p>
+  </h3>
+</div>
+
 <p align="center">
   <a href="https://reactjs.org/">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" style="vertical-align:top; margin:4px;">
@@ -56,7 +63,7 @@
   <a href="https://graphql.org/">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" height="60px" alt="graphql" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px;">
-  </a>  
+   <a href="https://www.typescriptlang.org/">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px;">
+  </a>
 </p>
