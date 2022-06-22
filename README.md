@@ -69,4 +69,3 @@
 </p>
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsquantum&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsquantum&show_icons=true" />
