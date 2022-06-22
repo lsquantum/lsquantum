@@ -67,3 +67,6 @@
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px;">
   </a>
 </p>
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsquantum&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsquantum&show_icons=true" />
