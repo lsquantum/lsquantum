@@ -13,7 +13,7 @@
 
 #### 💻 More
 - 🔭 I’m currently working on a project called "QuantumCore".
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Next.js
 - ⚡ Fun fact: I love backend more than frontend. :) 
 
 </br>
@@ -60,11 +60,11 @@
   <a href="https://reactjs.org/">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://graphql.org/">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" height="60px" alt="graphql" style="vertical-align:top; margin:4px;">
+  <a href="https://nodejs.org/">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" height="60px" alt="graphql" style="vertical-align:top; margin:4px;">
   </a>
-   <a href="https://www.typescriptlang.org/">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px;">
+   <a href="https://jestjs.io/">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" height="60px" alt="graphql" style="vertical-align:top; margin:4px;">
   </a>
 </p>
  
